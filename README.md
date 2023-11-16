@@ -1,2 +1,2 @@
-# TechnoHack_Edutech_Calculator
-Creating Calculator project in Java
+# TechnoHack_Edutech
+ Java Internship project
